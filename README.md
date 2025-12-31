@@ -40,8 +40,3 @@ Model Training: Execute 4-train_cnn_capsnet.pyto train the prediction model.
 
 Analysis (Optional): Use 5-tsne_original.pyand 6-tsne_after_primary_capsule.pyfor feature visualization.
 
-# Citation
-
-## If you use this code or the MHAIM method, please cite the associated paper:
-
-Molecular Holographic Atom-Pair Interaction Matrices Applied for Deep-Learning Prediction of Chemical Mutagenicity
